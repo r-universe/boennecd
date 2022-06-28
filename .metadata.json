@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "mmcif",
+    "oncran": true
+  },
+  {
     "package": "mssm",
     "oncran": true
   },

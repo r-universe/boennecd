@@ -18,6 +18,11 @@
 	url = https://github.com/boennecd/mdgc
 	shallow = true
 	registered = true
+[submodule "mmcif"]
+	path = mmcif
+	url = https://github.com/boennecd/mmcif
+	shallow = true
+	registered = true
 [submodule "mssm"]
 	path = mssm
 	url = https://github.com/boennecd/mssm
