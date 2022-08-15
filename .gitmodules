@@ -53,3 +53,8 @@
 	url = https://github.com/boennecd/simsurvnmarker
 	shallow = true
 	registered = true
+[submodule "VAJointSurv"]
+	path = VAJointSurv
+	url = https://github.com/boennecd/vajointsurv
+	shallow = true
+	registered = true

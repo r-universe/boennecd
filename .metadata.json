@@ -38,5 +38,9 @@
   {
     "package": "SimSurvNMarker",
     "oncran": true
+  },
+  {
+    "package": "VAJointSurv",
+    "oncran": true
   }
 ]
