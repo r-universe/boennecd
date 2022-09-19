@@ -3,6 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DtD"]
+	path = DtD
+	url = https://github.com/boennecd/dtd
+	shallow = true
+	registered = true
+[submodule "dynamichazard"]
+	path = dynamichazard
+	url = https://github.com/boennecd/dynamichazard
+	shallow = true
+	registered = true
+[submodule "mdgc"]
+	path = mdgc
+	url = https://github.com/boennecd/mdgc
+	shallow = true
+	registered = true
+[submodule "mmcif"]
+	path = mmcif
+	url = https://github.com/boennecd/mmcif
+	shallow = true
+	registered = true
 [submodule "mssm"]
 	path = mssm
 	url = https://github.com/boennecd/mssm
