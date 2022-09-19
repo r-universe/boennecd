@@ -1,21 +1,5 @@
 [
   {
-    "package": "DtD",
-    "oncran": true
-  },
-  {
-    "package": "dynamichazard",
-    "oncran": true
-  },
-  {
-    "package": "mdgc",
-    "oncran": true
-  },
-  {
-    "package": "mmcif",
-    "oncran": true
-  },
-  {
     "package": "mssm",
     "oncran": true
   },
