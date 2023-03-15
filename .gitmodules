@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DtD"]
-	path = DtD
-	url = https://github.com/boennecd/dtd
-	shallow = true
-	registered = true
-[submodule "dynamichazard"]
-	path = dynamichazard
-	url = https://github.com/boennecd/dynamichazard
-	shallow = true
-	registered = true
-[submodule "mdgc"]
-	path = mdgc
-	url = https://github.com/boennecd/mdgc
+[submodule "mssm"]
+	path = mssm
+	url = https://github.com/boennecd/mssm
 	shallow = true
 	registered = true
 [submodule "mmcif"]
@@ -23,29 +13,9 @@
 	url = https://github.com/boennecd/mmcif
 	shallow = true
 	registered = true
-[submodule "mssm"]
-	path = mssm
-	url = https://github.com/boennecd/mssm
-	shallow = true
-	registered = true
-[submodule "parglm"]
-	path = parglm
-	url = https://github.com/boennecd/parglm
-	shallow = true
-	registered = true
-[submodule "pedmod"]
-	path = pedmod
-	url = https://github.com/boennecd/pedmod
-	shallow = true
-	registered = true
-[submodule "psqn"]
-	path = psqn
-	url = https://github.com/boennecd/psqn
-	shallow = true
-	registered = true
-[submodule "rollRegres"]
-	path = rollRegres
-	url = https://github.com/boennecd/rollregres
+[submodule "DtD"]
+	path = DtD
+	url = https://github.com/boennecd/dtd
 	shallow = true
 	registered = true
 [submodule "SimSurvNMarker"]
@@ -56,5 +26,35 @@
 [submodule "VAJointSurv"]
 	path = VAJointSurv
 	url = https://github.com/boennecd/vajointsurv
+	shallow = true
+	registered = true
+[submodule "mdgc"]
+	path = mdgc
+	url = https://github.com/boennecd/mdgc
+	shallow = true
+	registered = true
+[submodule "dynamichazard"]
+	path = dynamichazard
+	url = https://github.com/boennecd/dynamichazard
+	shallow = true
+	registered = true
+[submodule "rollRegres"]
+	path = rollRegres
+	url = https://github.com/boennecd/rollregres
+	shallow = true
+	registered = true
+[submodule "pedmod"]
+	path = pedmod
+	url = https://github.com/boennecd/pedmod
+	shallow = true
+	registered = true
+[submodule "parglm"]
+	path = parglm
+	url = https://github.com/boennecd/parglm
+	shallow = true
+	registered = true
+[submodule "psqn"]
+	path = psqn
+	url = https://github.com/boennecd/psqn
 	shallow = true
 	registered = true
