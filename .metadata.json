@@ -1,6 +1,14 @@
 [
   {
-    "package": "mssm",
+    "package": "DtD",
+    "oncran": true
+  },
+  {
+    "package": "dynamichazard",
+    "oncran": true
+  },
+  {
+    "package": "mdgc",
     "oncran": true
   },
   {
@@ -8,7 +16,23 @@
     "oncran": true
   },
   {
-    "package": "DtD",
+    "package": "mssm",
+    "oncran": true
+  },
+  {
+    "package": "parglm",
+    "oncran": true
+  },
+  {
+    "package": "pedmod",
+    "oncran": true
+  },
+  {
+    "package": "psqn",
+    "oncran": true
+  },
+  {
+    "package": "rollRegres",
     "oncran": true
   },
   {
@@ -17,30 +41,6 @@
   },
   {
     "package": "VAJointSurv",
-    "oncran": true
-  },
-  {
-    "package": "mdgc",
-    "oncran": true
-  },
-  {
-    "package": "dynamichazard",
-    "oncran": true
-  },
-  {
-    "package": "rollRegres",
-    "oncran": true
-  },
-  {
-    "package": "pedmod",
-    "oncran": true
-  },
-  {
-    "package": "parglm",
-    "oncran": true
-  },
-  {
-    "package": "psqn",
     "oncran": true
   }
 ]
