@@ -5,6 +5,12 @@
 [submodule "DtD"]
 	path = DtD
 	url = https://github.com/boennecd/dtd
+[submodule "SimSurvNMarker"]
+	path = SimSurvNMarker
+	url = https://github.com/boennecd/simsurvnmarker
+[submodule "VAJointSurv"]
+	path = VAJointSurv
+	url = https://github.com/boennecd/vajointsurv
 [submodule "dynamichazard"]
 	path = dynamichazard
 	url = https://github.com/boennecd/dynamichazard
@@ -29,9 +35,3 @@
 [submodule "rollRegres"]
 	path = rollRegres
 	url = https://github.com/boennecd/rollregres
-[submodule "SimSurvNMarker"]
-	path = SimSurvNMarker
-	url = https://github.com/boennecd/simsurvnmarker
-[submodule "VAJointSurv"]
-	path = VAJointSurv
-	url = https://github.com/boennecd/vajointsurv
