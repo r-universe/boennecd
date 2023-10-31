@@ -11,9 +11,6 @@
 [submodule "VAJointSurv"]
 	path = VAJointSurv
 	url = https://github.com/boennecd/vajointsurv
-[submodule "dynamichazard"]
-	path = dynamichazard
-	url = https://github.com/boennecd/dynamichazard
 [submodule "mdgc"]
 	path = mdgc
 	url = https://github.com/boennecd/mdgc
