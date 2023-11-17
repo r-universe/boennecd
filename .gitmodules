@@ -29,6 +29,3 @@
 [submodule "psqn"]
 	path = psqn
 	url = https://github.com/boennecd/psqn
-[submodule "rollRegres"]
-	path = rollRegres
-	url = https://github.com/boennecd/rollregres
