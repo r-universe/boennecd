@@ -20,9 +20,6 @@
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/boennecd/parglm
-[submodule "pedmod"]
-	path = pedmod
-	url = https://github.com/boennecd/pedmod
 [submodule "psqn"]
 	path = psqn
 	url = https://github.com/boennecd/psqn
