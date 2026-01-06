@@ -14,9 +14,6 @@
 [submodule "mdgc"]
 	path = mdgc
 	url = https://github.com/boennecd/mdgc
-[submodule "mmcif"]
-	path = mmcif
-	url = https://github.com/boennecd/mmcif
 [submodule "parglm"]
 	path = parglm
 	url = https://github.com/boennecd/parglm
