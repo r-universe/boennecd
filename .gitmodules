@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DtD"]
-	path = DtD
-	url = https://github.com/boennecd/dtd
 [submodule "SimSurvNMarker"]
 	path = SimSurvNMarker
 	url = https://github.com/boennecd/simsurvnmarker
