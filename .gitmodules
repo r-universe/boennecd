@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "SimSurvNMarker"]
-	path = SimSurvNMarker
-	url = https://github.com/boennecd/simsurvnmarker
-[submodule "VAJointSurv"]
-	path = VAJointSurv
-	url = https://github.com/boennecd/vajointsurv
 [submodule "mdgc"]
 	path = mdgc
 	url = https://github.com/boennecd/mdgc
